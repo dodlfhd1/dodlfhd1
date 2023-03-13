@@ -12,7 +12,7 @@
   <h2>🏢 Work of company</h2>
 </div>
 <div align=center>
-  <h4> 현재 근무하는 회사에선 주로 asp.net 으로 웹 개발을 하고 있어요. </h4>
+  <h4> 현재 근무하는 회사에선 주로 asp.net 웹 개발을 하고 있어요. </h4>
 </div>
 <div align=center>
   <h2>✏ Personal Study</h2>
