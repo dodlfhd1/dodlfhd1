@@ -1,6 +1,6 @@
 <!--### Hi there 👋-->
 
-![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&text=Welcome&fontAlign=70&rotate=13&fontAlignY=25&desc=i%20am%20dodlfhd1%20.&descAlign=70.&descAlignY=44)
+![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&text=Welcome&fontAlign=70&rotate=13&fontAlignY=25&desc=I%20am%20dodlfhd1%20&descAlign=70.&descAlignY=44)
 
 <!--
 **dodlfhd1/dodlfhd1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
