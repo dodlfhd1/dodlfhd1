@@ -15,7 +15,7 @@
   <h4> 현재 근무하는 회사에선 주로 asp.net 으로 웹 개발을 하고 있어요. </h4>
 </div>
 <div align=center>
-  <h2>🖍 Personal Study</h2>
+  <h2>✏ Personal Study</h2>
 </div>
 <div align=center>
   <h4> 개인적으로는 Java, Javascript, React 를 배워보려고 합니다. </h4>
