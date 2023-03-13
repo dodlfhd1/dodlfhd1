@@ -1,6 +1,6 @@
 <!--### Hi there 👋-->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Welcome&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Welcome to my Git!&fontSize=45" />
 
 <!--
 **dodlfhd1/dodlfhd1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
