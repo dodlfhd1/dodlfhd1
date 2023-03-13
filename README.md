@@ -2,11 +2,12 @@
 
 ![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&text=Welcome&fontAlign=70&rotate=13&fontAlignY=25&desc=I%20am%20dodlfhd1%20&descAlign=70.&descAlignY=44)
 
-<div align=left>
+<div align=center>
   <h2>🙌 Intro </h2>
 </div>
-  ### 안녕하세요! 가끔은 프론트와 백 구분없이 일하는 asp 개발자입니다. 💚
-
+<div>
+  <h4> 안녕하세요! 가끔은 프론트와 백 구분없이 일하는 asp 개발자입니다. 💚 </h4>
+</div>
 <div>
   ### 3개
 </div>
