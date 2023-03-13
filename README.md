@@ -5,6 +5,9 @@
 <div align=left>
   <h2>🙌 Intro </h2>
 </div>
+<div>
+  <h3>안녕하세요! 가끔은 프론트와 백 구분없이 일하는 asp 개발자입니다. 💚</h3>
+</div>
 
 <!--
 **dodlfhd1/dodlfhd1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
