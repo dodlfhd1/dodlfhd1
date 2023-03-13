@@ -5,7 +5,7 @@
 <div align=center>
   <h2>🙌 Intro </h2>
 </div>
-<div>
+<div align=center>
   <h4> 안녕하세요! 가끔은 프론트와 백 구분없이 일하는 asp 개발자입니다. 💚 </h4>
 </div>
 <div>
