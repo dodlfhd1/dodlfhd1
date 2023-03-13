@@ -1,8 +1,8 @@
 <!--### Hi there 👋-->
 
-![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&width=600&text=Welcome&fontAlign=70&rotate=13&fontAlignY=25&desc=I%20am%20dodlfhd1%20&descAlign=70.&descAlignY=44)
+![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&text=Welcome&fontAlign=70&rotate=13&fontAlignY=25&desc=I%20am%20dodlfhd1%20&descAlign=70.&descAlignY=44)
 
-<div align=center>
+<div align=left>
   <h2>🙌 Intro </h2>
 </div>
 
