@@ -1,6 +1,6 @@
 <!--### Hi there 👋-->
 
-![header](https://capsule-render.vercel.app/api?type=shark&color=auto&height=200&text=Welcome&fontAlign=60&rotate=1&fontAlignY=25&desc=I%20am%20dodlfhd1%20&descAlign=70.&descAlignY=44)
+![header](https://capsule-render.vercel.app/api?type=shark&color=auto&height=200&text=Welcome&fontAlign=60&rotate=0&fontAlignY=25&desc=I%20am%20dodlfhd1%20&descAlign=70.&descAlignY=44)
 
 <div align=center>
   <h2>🙌 Intro</h2>
