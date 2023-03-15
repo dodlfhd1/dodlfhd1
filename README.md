@@ -9,13 +9,13 @@
   <h4> 안녕하세요! 가끔은 프론트와 백 구분없이 일하는 asp 개발자입니다. 💚 </h4>
 </div>
 <div align=center>
-  <h2>🏢 Work of company</h2>
+  <h2>🏢 Work</h2>
 </div>
 <div align=center>
   <h4> 현재 근무하는 회사에선 주로 asp.net 웹 개발을 하고 있어요. </h4>
 </div>
 <div align=center>
-  <h2>✏ Personal Study</h2>
+  <h2>✏ Study</h2>
 </div>
 <div align=center>
   <h4> 개인적으로는 Java, Javascript, React 를 배워보려고 합니다. </h4>
